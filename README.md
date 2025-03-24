@@ -1,2 +1,2 @@
 # OWN
-<my name>
+my name
