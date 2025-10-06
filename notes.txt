@@ -1,0 +1,8 @@
+print (f"<string>:{<ton convert>:<format how to print>}")
+range (<value>):
+                create the sreis always start bfrom 0 to value -1
+range (<value to strat from>,<till last value +1>)
+range (<value to strat from>,<till last value +1>,<diffrence betwwen each term>)                
+i=<true value> if <condition> else <false value> ------------> ternery operator in Python
+"\" to continue code in next line
+pip install -r requirement.txt : for installing all file wirtten in the file at once
